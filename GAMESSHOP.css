@@ -1,0 +1,63 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: whitesmoke;
+    box-sizing: content-box;
+    padding: 25px;
+    position: absolute;
+    top: 0px;
+
+}
+
+
+#contato {
+    color: whitesmoke;
+    position: absolute;
+    top: 34px;
+    right: 50px;
+}
+
+#sobrealoja {
+    color: whitesmoke;
+    position: absolute;
+    top: 34px;
+    right: 200px;
+}
+
+#sobre {
+    position: absolute;
+    left: 650px;
+    top: 180px;
+    flex-wrap: wrap;
+    margin-right: 50px;
+}
+
+#imagem {
+    margin: 50px;
+    position: absolute;
+    top: 100px;
+    border-radius: 50px;
+    }
+
+#nosacompanhe {
+    position: absolute;
+    top: 600px;
+    right: ;
+}
+
+body {
+    background-color: #C9E1E3;
+   border-style: solid;
+   border-top-width: 2cm;
+   border-top-color: #092f5b98;
+}
+
+#fundo {
+    width: 3000px
+}
